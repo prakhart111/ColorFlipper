@@ -1,10 +1,14 @@
 #abc{
     text-align:center;
     border: 2px solid yellowgreen;
+    background-color: darkslategrey;
     width: fit-content;
+    align-items: center;
     text-align: center;
     margin:auto;
     padding:30px;
+    font-size: larger;
+    border-radius: 20px;
 }
 body{
     display: flex;
@@ -26,4 +30,5 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     color:rgb(2, 2, 128);
+    border-radius: 7px;
 }
